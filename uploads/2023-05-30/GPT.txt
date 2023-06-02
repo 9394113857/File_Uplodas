@@ -1,0 +1,33 @@
+Explain the code line by line how many methods are there what the code is doing finally
+
+Character Patterns:-
+Print Letter A
+print("Print Any Letter by giving 7 x 5 Panel as input arguments : ")
+rows = int(input("Enter no of rows : "))
+columns = int(input("Enter no of columns : "))
+
+
+for row in range(rows): # 0 to 6
+  for col in range(columns): # 0 to 4
+    if(row == 0) and (col in {1,2,3}):
+      print('*',end=' ')
+    elif(row in {1,2,4,5,6}) and (col in {0,4}):
+      print('*',end=' ')
+    elif(row == 3):
+      print('*',end=' ')
+    else:
+      print(' ',end=' ')
+  print()
+
+Print Any Letter by giving 7 x 5 Panel as input arguments : 
+Enter no of rows : 7
+Enter no of columns : 5
+
+  * * *   
+*       * 
+*       * 
+* * * * * 
+*       * 
+*       * 
+*       * 
+ 

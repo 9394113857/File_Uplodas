@@ -1,0 +1,3 @@
+INFO:root:Uploaded file: Raghunadh_Software_Engineer.docx
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 14:26:28] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [31/May/2023 14:26:28] "GET /success HTTP/1.1" 200 -

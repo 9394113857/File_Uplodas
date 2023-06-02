@@ -1,0 +1,4 @@
+INFO:root:Uploaded file: GPT.txt
+INFO:root:Uploaded file: oops_concepts.docx
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 18:16:35] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [30/May/2023 18:16:35] "GET /success HTTP/1.1" 200 -

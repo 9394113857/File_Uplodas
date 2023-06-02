@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Upload</title>
+</head>
+<body>
+    <h1>File Upload</h1>
+    <form method="POST" enctype="multipart/form-data">
+        {{ form.csrf_token }}
+        <div>
+            <label for="{{ form.files.id }}">{{ form.files.label }}</label>
+            {{ form.files(placeholder='Select files', multiple='multiple') }}
+            {% if form.files.errors %}
+                <ul>
+                    {% for error in form.files.errors %}
+                        <li>{{ error }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>

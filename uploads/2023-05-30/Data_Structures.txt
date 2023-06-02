@@ -1,0 +1,70 @@
+Arrays:
+# Conversion from first string to list and then list to finally array:-
+# Smallest element present in given array:-
+# Specify the array size and pass the values:-
+# Python program to print the duplicate elements of an array
+# Python program to print the elements of an array
+# Python program to print the elements of an array in reverse order
+# Python program to print the elements of an array present on even position
+# Python program to print the elements of an array present on odd position
+# Python program to print the largest element in an array
+# Python program to print the smallest element in an array
+# Python program to print the number of elements present in an array
+# Python program to print the sum of all elements in an array
+
+Strings:
+# Python Program to Sort Words in Alphabetical Order
+# Python Program to Remove Punctuation from a String
+====================================================
+# How to reverse a string in Python?
+# How to convert list to string in Python?
+# How to convert int to string in Python?
+# How to concatenate two strings in Python?
+# Accessing Values in Strings
+# Python String replace() Method
+# Python count
+# Split Strings
+# Python string index()
+# What is Python String format()?
+# Python string length | len() method Example
+====================================================
+
+
+
+# What is Python strip()?
+# What is Python String find()
+# Python string rfind()
+# How to use split () Function using Substring in Python?
+
+list:
+# Enter list of country names separated by space
+# Input a list using input() and range() function
+# How to append element in the list
+# How to compare two lists in Python
+# How to convert list to dictionary in Python
+# How to remove an element from a list in Python
+# How to convert List to Set? 
+# How to convert list to string? 
+
+set:
+# Creating a set
+# Adding items to the set
+# Removing items from the set
+# Difference between discard() and remove()
+# Python Set Operations
+
+tuple:
+# Creating a tuple
+# Tuple indexing and slicing
+# Negative Indexing
+# Deleting Tuple
+
+dictionary:
+# Python code to merge dict using a single expression:
+# How to Create a Dictionary in Python
+# Adding Elements to a Dictionary
+# Removing Elements from Dictionary
+# How to sort a dictionary in Python
+# Reverse the sorted Order
+
+# Merge two Dictionaries in Python
